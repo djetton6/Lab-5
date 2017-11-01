@@ -55,4 +55,12 @@ header {
   font-style: italic;
   text-align: center;
   width: auto;
+  color: #7322b3
+  margin:0 auto;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+body {
+  background-image: image();
 }
