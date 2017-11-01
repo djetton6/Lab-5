@@ -50,3 +50,9 @@ table {
 	width:720px;
 	border-spacing:automatic;
 }
+header {
+  font-size: 72px;
+  font-style: italic;
+  text-align: center;
+  width: auto;
+}
